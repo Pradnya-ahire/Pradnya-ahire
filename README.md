@@ -1,87 +1,187 @@
-👋 Hi, I'm Pradnya Ahire
-💻 BBA(CA) Graduate | Aspiring Software Developer | MCA Student
+# 👋 Hi, I'm Pradnya Ahire
 
-Welcome to my GitHub profile! I'm Pradnya Ahire, a passionate and curious learner who recently completed my BBA(CA) (Bachelor of Business Administration – Computer Application) from BYK College, Nashik.
+### 💻 MCA Student | Aspiring Software & Web Developer | Java Enthusiast
 
-Currently, I have started my MCA journey at IMCC, Pune, where I'm expanding my knowledge of software development, programming, databases, and modern technologies.
+I'm **Pradnya Ahire**, a BBA(CA) graduate from **BYK College, Nashik**, currently pursuing my **MCA at IMCC, Pune**.
 
-I enjoy learning new technologies, building practical projects, and turning ideas into useful applications. 🚀
+I enjoy building practical applications, exploring new technologies, and learning through hands-on projects. My current focus is on **software development and web development**, with a particular interest in **Java and backend development**.
 
-🎓 Education
+My long-term goal is to grow from a software/web developer into **Data Analytics and eventually Data Science**, combining my programming, database, and analytical skills to solve real-world problems.
 
-🎓 MCA — IMCC, Pune
-Currently Pursuing
+---
 
-🎓 BBA(CA) — BYK College, Nashik
-Completed
+## 🎓 Education
 
-💻 About Me
-🌱 Currently learning and improving my programming & development skills
-💡 Interested in Software Development, Web Development & Technology
-🛠️ I enjoy building projects that solve real-world problems
-📚 Always exploring new tools and technologies
-🎯 Goal: To become a skilled and professional software developer
-🚀 Currently focusing on improving my technical and problem-solving skills
-🚀 Projects
-🏠 MaidEasy
+* 🎓 **MCA** — IMCC, Pune | *Currently Pursuing*
+* 🎓 **BBA(CA)** — BYK College, Nashik | *Completed*
 
-MaidEasy is one of my undergraduate projects developed to provide a convenient platform for maid/service-related management.
+---
 
-Key focus:
+## 💻 About Me
 
-User-friendly interface
-Service management
-Practical real-world use case
-Application of programming and database concepts
-🎓 CampusHive
+* 🌱 Currently strengthening my **software development and problem-solving skills**
+* ☕ **Java** is one of my favourite programming languages
+* 🌐 Interested in **Software Development & Web Development**
+* 🔨 Enjoy building projects to learn through practical implementation
+* 🗄️ Interested in **Databases and Backend Development**
+* 🚀 Currently exploring **React** for modern web applications
+* 📊 Long-term interest in **Data Analytics and Data Science**
+* 🤝 Open to learning, collaborating, and contributing to interesting projects
 
-CampusHive is another project I developed during my undergraduate studies, focused on creating a useful platform for students and campus-related activities.
+---
 
-Key focus:
+## 🛠️ Tech Stack
 
-Student-focused functionality
-Campus-related information
-Easy-to-use interface
-Practical implementation of development concepts
-🛠️ Skills & Technologies
-Programming & Development
-💻 Programming Fundamentals
-🌐 Web Development
-🗄️ Database Management
-🔧 Software Development
-Currently Learning
-Java
-Python
-Web Technologies
-SQL & Database Management
-Data Structures & Algorithms
-Git & GitHub
+### 💻 Programming Languages
 
-I believe in learning by building, so I'm continuously working on projects to strengthen my technical skills.
+`Java` `Python` `C` `C++` `PHP` `JavaScript`
 
-📊 My GitHub
+### 🌐 Web Development
+
+`HTML5` `CSS3` `JavaScript` `React`
+
+### 🗄️ Databases & Tools
+
+`MySQL` `SQL` `phpMyAdmin` `MySQL Workbench`
+
+### 🔧 Development Tools
+
+`Git` `GitHub` `VS Code` `XAMPP`
+
+### 📚 Currently Learning
+
+`Java` `Spring Boot` `React` `Data Structures & Algorithms` `Backend Development`
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 MaidEasy
+
+A web-based **maid/service management application** developed as an undergraduate project.
+
+**Technologies:**
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `XAMPP`
+
+**Focus:**
+
+* User-friendly service management
+* Database-driven application
+* Practical real-world use case
+* Implementation of web development and database concepts
+
+🔗 **Repository:** [MaidEasy](https://github.com/Pradnya-ahire/maideasy)
+
+---
+
+### 🎓 CampusHive
+
+A student-focused web application designed around **campus activities and student-related information**.
+
+**Technologies:**
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Focus:**
+
+* Student-oriented functionality
+* Campus-related information
+* Database integration
+* Practical implementation of web development concepts
+
+---
+
+### ✅ TaskManager
+
+A Java-based project focused on implementing application functionality using **Java programming concepts**.
+
+**Technology:**
+`Java`
+
+🔗 **Repository:** [TaskManager](https://github.com/Pradnya-ahire/TaskManager)
+
+---
+
+### 🌐 Personal Portfolio
+
+A web development project created to showcase my skills, projects, and learning journey.
+
+**Technologies:**
+`JavaScript` `HTML` `CSS`
+
+🔗 **Repository:** [Portfolio](https://github.com/Pradnya-ahire/portfolio)
+
+---
+
+## 🏆 Achievements
+
+### 🥇 Black Out Coding — 3 Consecutive Years
+
+I participated in **Black Out Coding** during my BBA(CA) degree and secured the **prize for three consecutive years**, competing in **C programming**.
+
+This experience helped me strengthen my programming fundamentals, logical thinking, and problem-solving abilities.
+
+---
+
+## 📈 My Learning Journey
+
+I believe in **learning by building** rather than only learning theory.
+
+My current journey is focused on:
+
+**Programming Fundamentals**
+↓
+**Java & Software Development**
+↓
+**Web & Backend Development**
+↓
+**Data Analytics**
+↓
+**Data Science**
+
+I want to first build a strong foundation by working as a **Software Developer / Web Developer**, gain real-world industry experience, and gradually transition toward **Data Analytics and Data Science**.
+
+---
+
+## 🎯 Current Goals
+
+* 💻 Become industry-ready as a **Software/Web Developer**
+* ☕ Build strong expertise in **Java**
+* 🌱 Learn and build projects using **Spring Boot**
+* ⚛️ Improve my **React** skills
+* 🗄️ Strengthen database and SQL knowledge
+* 🧠 Improve **Data Structures & Algorithms**
+* 🚀 Build more real-world projects
+* 📊 Gradually move toward **Data Analytics & Data Science**
+
+---
+
+## 📊 GitHub
 
 I use GitHub to:
 
-📌 Upload and maintain my projects
-💻 Practice coding
-📚 Learn new technologies
-🚀 Build my development portfolio
-🤝 Explore and collaborate on projects
-🌱 My Goal
+* 📌 Build and maintain projects
+* 💻 Practice programming
+* 🌱 Learn new technologies
+* 🚀 Document my development journey
+* 🤝 Explore open-source projects and collaboration
 
-My goal is to continuously improve my technical knowledge and become a confident software developer who can build efficient, meaningful, and user-friendly applications.
+---
 
-I'm currently exploring different areas of technology through my MCA journey and personal projects.
+## 🤝 Let's Connect
 
-🤝 Let's Connect
+I'm always interested in **learning, building, collaborating, and connecting with fellow developers and technology enthusiasts.**
 
-I'm always open to learning, collaborating, and connecting with other students and developers.
+<p align="left">
+<a href="https://github.com/Pradnya-ahire">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/pradnya-ahire-a82803307/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-📫 Find me on GitHub
+---
 
-GitHub: Pradnya-ahire
+### 🌱 Learn. Build. Improve. Repeat. 🚀
 
-⭐ Thanks for visiting my profile!
-
-Keep Learning. Keep Building. Keep Growing. 🚀  
+**Thanks for visiting my profile!**
